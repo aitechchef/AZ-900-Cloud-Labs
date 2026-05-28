@@ -1,4 +1,4 @@
-Azure Cloud Hands-on Portfolio: Fundamentals to Practice
+Azure Cloud Infrastructure Lab
 
 Welcome to my Microsoft Azure hands-on project repository! This portfolio captures 10 practical labs I built while diving deep into cloud architecture, security, and governance.
 
