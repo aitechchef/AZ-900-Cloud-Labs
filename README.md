@@ -1,4 +1,5 @@
 Azure Cloud Hands-on Portfolio: Fundamentals to Practice
+
 Welcome to my Microsoft Azure hands-on project repository! This portfolio captures 10 practical labs I built while diving deep into cloud architecture, security, and governance.
 
 Instead of just memorizing textbook definitions for a test, I wanted to understand how these cloud services actually work, how they break, and how to troubleshoot them when things go wrong under real-world constraints.
