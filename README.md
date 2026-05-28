@@ -6,7 +6,7 @@ Instead of just memorizing textbook definitions for a test, I wanted to understa
 📂 Repository Structure & Project Roadmap
 As shown in my local directory structure, the repository is split into 10 progressive labs covering the core pillars of cloud infrastructure:
 
-Plaintext
+
 ├── Lab_01_Resource_Hierarchy/      # Setting up management groups and resource groups
 ├── Lab_02_IaaS_Availability/       # Deploying VMs and setting up high-availability zones
 ├── Lab_03_PaaS_Serverless/         # Building serverless web apps without managing OS tiers
