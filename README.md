@@ -7,16 +7,16 @@ Instead of just memorizing textbook definitions for a test, I wanted to understa
 As shown in my local directory structure, the repository is split into 10 progressive labs covering the core pillars of cloud infrastructure:
 
 
-├── Lab_01_Resource_Hierarchy/      # Setting up management groups and resource groups
-├── Lab_02_IaaS_Availability/       # Deploying VMs and setting up high-availability zones
-├── Lab_03_PaaS_Serverless/         # Building serverless web apps without managing OS tiers
-├── Lab_04_Virtual_Networking/      # Creating VNets and connecting them via Local Peering
-├── Lab_05_Storage_Redundancy/      # Provisioning blob storage and configuring access tiers
-├── Lab_06_Identity_Entra_ID/       # Spanning custom tenants to bypass student permission locks
-├── Lab_07_RBAC_Execution/          # Auditing granular JSON permissions & modeling Zero Trust
-├── Lab_08_Cost_Management/         # Simulating TCO reports, reserved instances, and budgets
-├── Lab_09_Azure_Policy_Enforcement/# Implementing Resource Locks against accidental deletion
-└── Lab_10_Management_Tools/        # Programmatic deployment via Azure CLI & Cloud Shell
+Lab_01_Resource_Hierarchy/      # Setting up management groups and resource groups
+Lab_02_IaaS_Availability/       # Deploying VMs and setting up high-availability zones
+Lab_03_PaaS_Serverless/         # Building serverless web apps without managing OS tiers
+Lab_04_Virtual_Networking/      # Creating VNets and connecting them via Local Peering
+Lab_05_Storage_Redundancy/      # Provisioning blob storage and configuring access tiers
+Lab_06_Identity_Entra_ID/       # Spanning custom tenants to bypass student permission locks
+Lab_07_RBAC_Execution/          # Auditing granular JSON permissions & modeling Zero Trust
+Lab_08_Cost_Management/         # Simulating TCO reports, reserved instances, and budgets
+Lab_09_Azure_Policy_Enforcement/# Implementing Resource Locks against accidental deletion
+Lab_10_Management_Tools/        # Programmatic deployment via Azure CLI & Cloud Shell
 
 🛠️ Summary of What I Built
 ☁️ Core Compute & Architecture (Labs 1 - 3)
